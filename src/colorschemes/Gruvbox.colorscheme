@@ -1,0 +1,138 @@
+
+### GENERAL
+[General]
+Description=Gruvbox Darker
+Author=Okulus Dev
+Opacity=1
+
+### BACKGROUND (#151516)
+[Background]
+Color=21,21,22
+Bold=false
+Transparency=false
+
+### BACKGROUND INTENSE (#191919)
+[BackgroundIntense]
+Color=25,25,25
+Bold=true
+Transparency=false
+
+### FOREGROUND (#ebdbb2)
+[Foreground]
+Color=235,219,178
+Bold=false
+Transparency=false
+
+### FOREGROUND INTENSE (#ebdbb2)
+[ForegroundIntense]
+Color=235,219,178
+Bold=true
+Transparency=false
+
+### BLACK (#282828)
+[Color0]
+Color=40,40,40
+Bold=false
+Transparency=false
+
+### BLACK BOLD (#282828)
+[Color0Intense]
+Color=40,40,40
+Bold=true
+Transparency=false
+
+### RED (#FB4934)
+[Color1]
+Color=251,73,52
+Bold=false
+Transparency=false
+
+### RED BOLD (#FB4934)
+[Color1Intense]
+Color=251,73,52
+Bold=true
+Transparency=false
+
+### GREEN (#b8bb26)
+[Color2]
+Color=184,187,38
+Bold=false
+Transparency=false
+
+### GREEN BOLD (#b8bb26)
+[Color2Intense]
+Color=184,187,38
+Bold=true
+Transparency=false
+
+### YELLOW (#fabd2f)
+[Color3]
+Color=250,189,47
+Bold=false
+Transparency=false
+
+### YELLOW BOLD (#fabd2f)
+[Color3Intense]
+Color=250,189,47
+Bold=true
+Transparency=false
+
+### BLUE (#83a598)
+[Color4]
+Color=131,165,152
+Bold=false
+Transparency=false
+
+### BLUE BOLD (#83a598)
+[Color4Intense]
+Color=131,165,152
+Bold=true
+Transparency=false
+
+### ORANGE (#ff9a1d)
+[Color5]
+Color=255,154,29
+Bold=false
+Transparency=false
+
+### ORANGE BOLD (#ff9a1d)
+[Color5Intense]
+Color=255,154,29
+Bold=true
+Transparency=false
+
+### AQUA (#8ec07c)
+[Color6]
+Color=142,192,124
+Bold=false
+Transparency=false
+
+### AQUA BOLD (#8ec07c)
+[Color6Intense]
+Color=142,192,124
+Bold=true
+Transparency=false
+
+### PURPLE (#d3869b)
+[Color7]
+Color=211,134,155
+Bold=false
+Transparency=false
+
+### PURPLE BOLD (#d3869b)
+[Color7Intense]
+Color=211,134,155
+Bold=true
+Transparency=false
+
+### WHITE (#FFFFFF)
+[Color8]
+Color=255,255,255
+Bold=false
+Transparency=false
+
+### WHITE BOLD (#FFFFFF)
+[Color8Intense]
+Color=255,255,255
+Bold=true
+Transparency=false
