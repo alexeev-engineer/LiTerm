@@ -25,7 +25,9 @@ int main(int argc, char *argv[]) {
 	// Add a blinking cursor
 	console->setBlinkingCursor(true);
 	// Add a 10px margin
-	console->setMargin(10);
+	console->setMargin(12);
+	console->setTerminalSizeHint(false);
+	console->setHistorySize(100);
 
 	/* START CONFIG BLOCK */
 
@@ -47,8 +49,6 @@ int main(int argc, char *argv[]) {
 					[=](const QKeyEvent *key) -> void {
 						if (key->matches(QKeySequence::Copy)) {
 							console->copyClipboard();
-						} else if (key->matches(QKeySequence::Paste)) {
-							console->pasteClipboard();
 						}
 					});
 	QObject::connect(console, &QTermWidget::urlActivated, mainWindow,
