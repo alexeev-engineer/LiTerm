@@ -12,5 +12,6 @@ sudo pacman -S base-devel qtermwidget
 ```bash
 qmake
 make
+./postinst.sh
 ./bin/LiTerm # Launch
 ```
