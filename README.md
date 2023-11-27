@@ -1,0 +1,2 @@
+# LiTerm
+Simple linux terminal
